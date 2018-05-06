@@ -343,3 +343,52 @@
   text-align          : left;
   line-height         : 20.0px;
 }
+:root {
+   font-size: 32px;
+}
+#red-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+
+#red-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+
+#red-arrow span:hover {
+   background-color: none;
+}
+#blue-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+
+#blue-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+
+#blue-arrow span:hover {
+   background-color: none;
+}
