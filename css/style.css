@@ -295,6 +295,43 @@
   text-align          : center;
   line-height         : 32.0px;
 }
+.page-1956 {
+   width               : 100%;
+   min-width           : 1024px;
+   height              : 100vh;
+   min-height          : 1678px;
+   position            : relative;
+}
+.page-1956 .main {
+  top                 : 112px;
+  height              : 1488px;
+  width               : 860px;
+  position            : absolute;
+  left                : 122px;
+}
+.page-1956 .main .background2 {
+  background-color    : rgba(156, 197, 215, 1.0);
+  height              : 928px;
+  width               : 860px;
+  position            : absolute;
+}
+.page-1956 .header {
+  top                 : 26px;
+  height              : 61px;
+  width               : 940px;
+  position            : absolute;
+  left                : 42px;
+}
+.page-1956 .header .campus-map {
+  height              : auto;
+  width               : 862px;
+  position            : absolute;
+  left                : 79px;
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  text-align          : center;
+  line-height         : 32.0px;
+}
 .legend-container1 {
    width: 1024px;
    bottom: 1678px;
@@ -343,6 +380,102 @@
   text-align          : left;
   line-height         : 20.0px;
 }
+.legend-container2 {
+   width: 1024px;
+   bottom: 1804px;
+   position: relative;
+   margin: auto;
+}
+.legend-container2 .footer2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 112px;
+  height              : 1488px;
+  width               : 860px;
+  position            : absolute;
+  left                : 122px;
+}
+.legend-container2 .footer2 .legend2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1054px;
+  height              : 434px;
+  width               : 860px;
+  position            : absolute;
+}
+.legend-container2 .footer2 .legend2 .background02 {
+  background-color    : rgba(240, 240, 240, 1.0);
+  height              : 417px;
+  width               : 860px;
+  position            : absolute;
+}
+.legend-container2 .footer2 .legend2 .right-list2 {
+  top                 : 76px;
+  height              : auto;
+  width               : 322px;
+  position            : absolute;
+  left                : 460px;
+  font-family         : "IBMPlexSans-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.legend-container2 .footer2 .legend2 .left-list2 {
+  top                 : 76px;
+  width               : 322px;
+  position            : absolute;
+  left                : 80px;
+  font-family         : "IBMPlexSans-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.legend-container3 {
+   width: 1024px;
+   bottom: 1804px;
+   position: relative;
+   margin: auto;
+}
+.legend-container3 .footer3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 112px;
+  height              : 1488px;
+  width               : 860px;
+  position            : absolute;
+  left                : 122px;
+}
+.legend-container3 .footer3 .legend3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1054px;
+  height              : 434px;
+  width               : 860px;
+  position            : absolute;
+}
+.legend-container3 .footer3 .legend3 .background03 {
+  background-color    : rgba(240, 240, 240, 1.0);
+  height              : 417px;
+  width               : 860px;
+  position            : absolute;
+}
+.legend-container3 .footer3 .legend3 .right-list3 {
+  top                 : 76px;
+  height              : auto;
+  width               : 322px;
+  position            : absolute;
+  left                : 460px;
+  font-family         : "IBMPlexSans-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.legend-container3 .footer3 .legend3 .left-list3 {
+  top                 : 76px;
+  width               : 322px;
+  position            : absolute;
+  left                : 80px;
+  font-family         : "IBMPlexSans-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  text-align          : left;
+  line-height         : 20.0px;
+}
 :root {
    font-size: 32px;
 }
@@ -355,7 +488,6 @@
    background-color : rgba(244, 163, 176, 1.0);
    transition: .5s;
 }
-
 #red-arrow span::after {
    position: absolute;
    left: 60px;
@@ -365,7 +497,6 @@
    border-bottom: 20px solid transparent;
    border-left: 20px solid rgba(244, 163, 176, 1.0);
 }
-
 #red-arrow span:hover {
    background-color: none;
 }
@@ -375,11 +506,31 @@
    line-height: 40px;
    position: relative;
    padding: 0 4px;
+   background-color : rgba(156, 197, 215, 1.0);
+   transition: .5s;
+}
+#blue-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(156, 197, 215, 1.0);
+}
+#blue-arrow span:hover {
+   background-color: none;
+}
+#yellow-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
    background-color : rgba(244, 163, 176, 1.0);
    transition: .5s;
 }
-
-#blue-arrow span::after {
+#yellow-arrow span::after {
    position: absolute;
    left: 60px;
    content: '';
@@ -388,7 +539,99 @@
    border-bottom: 20px solid transparent;
    border-left: 20px solid rgba(244, 163, 176, 1.0);
 }
-
-#blue-arrow span:hover {
+#yellow-arrow span:hover {
    background-color: none;
+}
+#purple-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+#purple-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+#purple-arrow span:hover {
+   background-color: none;
+}
+#green-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+#green-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+#green-arrow span:hover {
+   background-color: none;
+}
+#orange-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+#orange-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+#orange-arrow span:hover {
+   background-color: none;
+}
+#pink-arrow span {
+   display: inline-block;
+   height: 40px;
+   line-height: 40px;
+   position: relative;
+   padding: 0 4px;
+   background-color : rgba(244, 163, 176, 1.0);
+   transition: .5s;
+}
+#pink-arrow span::after {
+   position: absolute;
+   left: 60px;
+   content: '';
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rgba(244, 163, 176, 1.0);
+}
+#pink-arrow span:hover {
+   background-color: none;
+}
+#light1 {
+font-family: "IBMPlexSans-Extralight", Helvetica, Arial, serif;
+}
+#light2 {
+font-family: "IBMPlexSans-Extralight", Helvetica, Arial, serif;
+}
+#TCS {
+font-family: "IBMPlexSans-Extralight", Helvetica, Arial, serif;
 }
