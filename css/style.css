@@ -69,160 +69,160 @@
   line-height         : 47.0px;
 }
 .all {
-   width: 1024px;
-   height: 100%;
-   position:relative; 
-   margin:auto;
+   width              : 1024px;
+   height             : 100%;
+   position           : relative; 
+   margin             :auto;
 }
 .all .nav {
-   top                 : 112px;
-   height              : 280px;
-   width               : 60px;
-   position            : fixed;
-   left                : 170px;
+   top                : 112px;
+   height             : 280px;
+   width              : 60px;
+   position           : fixed;
+   left               : 170px;
 }
 .all .nav #first {
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #first #red {
-   background-color    : rgba(244, 163, 176, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(244, 163, 176, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #red a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #second {
-   top                 : 40px;
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   top                : 40px;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #second #blue {
-   background-color    : rgba(155, 196, 215, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(155, 196, 215, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #blue a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #third {
-   top                 : 80px;
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   top                : 80px;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #third #yellow {
-   background-color    : rgba(247, 243, 171, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(247, 243, 171, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #yellow a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #fourth {
-   top                 : 120px;
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   top                : 120px;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #fourth #purple {
-   background-color    : rgba(198, 161, 244, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(198, 161, 244, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #purple a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #fifth {
-   top                 : 160px;
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   top                : 160px;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #fifth #green {
-   background-color    : rgba(155, 215, 171, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(155, 215, 171, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #green a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #sixth {
-   top                 : 200px;
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   top                : 200px;
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 .all .nav #sixth #orange {
-   background-color    : rgba(247, 212, 167, 1.0);
-   height              : 40px;
-   width               : 60px;
-   position            : absolute;
+   background-color   : rgba(247, 212, 167, 1.0);
+   height             : 40px;
+   width              : 60px;
+   position           : absolute;
 }
 #orange a {
-   text-decoration     : none;
-   top                 : 8px;
-   width               : 50px;
-   position            : absolute;
-   left                : 6px;
-   font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-   font-size           : 18.0px;
-   color               : black;
-   text-align          : justify;
-   line-height         : 23.0px;
+   text-decoration    : none;
+   top                : 8px;
+   width              : 50px;
+   position           : absolute;
+   left               : 6px;
+   font-family        : "IBMPlexSans", Helvetica, Arial, serif;
+   font-size          : 18.0px;
+   color              : black;
+   text-align         : justify;
+   line-height        : 23.0px;
 }
 .all .nav #seventh {
    top                 : 240px;
@@ -268,6 +268,14 @@
   width               : 860px;
   position            : absolute;
 }
+.page-1940 .main .background1 .picture1 {
+  top                 : 80px;
+  height              : 894px;
+  width               : 700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+}
 .page-1940 .header {
   top                 : 26px;
   height              : 61px;
@@ -284,6 +292,10 @@
   font-size           : 36.0px;
   text-align          : center;
   line-height         : 37.0px;
+}
+.map-icon a {
+   text-decoration: none;
+   color: rgba(0, 0, 0, 1.0);
 }
 .page-1940 .header .campus-map {
   height              : auto;
@@ -315,6 +327,13 @@
   width               : 860px;
   position            : absolute;
 }
+.page-1956 .main .background2 .picture2 {
+   top                 : 81px;
+   height              : 766px;
+   width               : 700px;
+   position            : absolute;
+   left                : 80px;
+ }
 .page-1956 .header {
   top                 : 26px;
   height              : 61px;
@@ -352,6 +371,13 @@
   width               : 860px;
   position            : absolute;
 }
+.page-1959 .main .background3 .picture3 {
+   top                 : 81px;
+   height              : 694px;
+   width               : 700px;
+   position            : absolute;
+   left                : 80px;
+ }
 .page-1959 .header {
   top                 : 26px;
   height              : 61px;
@@ -388,6 +414,13 @@
   height              : 848px;
   width               : 860px;
   position            : absolute;
+}
+.page-1960 .main .background4 .picture4 {
+   top                 : 83px;
+   height              : 684px;
+   width               : 700px;
+   position            : absolute;
+   left                : 80px;
 }
 .page-1960 .header {
   top                 : 26px;
@@ -426,6 +459,13 @@
   width               : 860px;
   position            : absolute;
 }
+.page-1962 .main .background5 .picture5 {
+   top                 : 81px;
+   height              : 542px;
+   width               : 700px;
+   position            : absolute;
+   left                : 80px;
+}
 .page-1962 .header {
   top                 : 26px;
   height              : 61px;
@@ -463,6 +503,13 @@
   width               : 860px;
   position            : absolute;
 }
+.page-1970 .main .background6 .picture6 {
+   top                 : 81px;
+   height              : 531px;
+   width               : 700px;
+   position            : absolute;
+   left                : 80px;
+}
 .page-1970 .header {
   top                 : 26px;
   height              : 61px;
@@ -481,41 +528,48 @@
   line-height         : 32.0px;
 }
 .page-1980 {
-   width               : 100%;
-   min-width           : 1024px;
-   height              : 100vh;
-   min-height          : 1678px;
-   position            : relative;
+   width : 100%;
+   min-width : 1024px;
+   height : 100vh;
+   min-height : 1678px;
+   position : relative;
 }
 .page-1980 .main {
-  top                 : 112px;
-  height              : 1488px;
-  width               : 860px;
-  position            : absolute;
-  left                : 122px;
+  top : 112px;
+  height : 1488px;
+  width : 860px;
+  position : absolute;
+  left : 122px;
 }
 .page-1980 .main .background7 {
-  background-color    : rgba(247, 156, 208, 1.0);
-  height              : 702px;
-  width               : 860px;
-  position            : absolute;
+  background-color : rgba(247, 156, 208, 1.0);
+  height : 702px;
+  width : 860px;
+  position : absolute;
+}
+.page-1980 .main .background7 .picture7 {
+   top  : 81px;
+   height  : 540px;
+   width : 700px;
+   position : absolute;
+   left : 80px;
 }
 .page-1980 .header {
-  top                 : 26px;
-  height              : 61px;
-  width               : 940px;
-  position            : absolute;
-  left                : 42px;
+  top : 26px;
+  height : 61px;
+  width : 940px;
+  position : absolute;
+  left : 42px;
 }
 .page-1980 .header .campus-map {
-  height              : auto;
-  width               : 862px;
-  position            : absolute;
-  left                : 79px;
-  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  text-align          : center;
-  line-height         : 32.0px;
+  height : auto;
+  width  : 862px;
+  position : absolute;
+  left : 79px;
+  font-family : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size : 24.0px;
+  text-align : center;
+  line-height : 32.0px;
 }
 .legend-container1 {
    width: 1024px;
@@ -524,7 +578,6 @@
    margin: auto;
 }
 .legend-container1 .footer1 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -532,7 +585,6 @@
   left                : 122px;
 }
 .legend-container1 .footer1 .legend1 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -572,7 +624,6 @@
    margin: auto;
 }
 .legend-container2 .footer2 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -580,7 +631,6 @@
   left                : 122px;
 }
 .legend-container2 .footer2 .legend2 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -620,7 +670,6 @@
    margin: auto;
 }
 .legend-container3 .footer3 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -628,7 +677,6 @@
   left                : 122px;
 }
 .legend-container3 .footer3 .legend3 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -668,7 +716,6 @@
    margin: auto;
 }
 .legend-container4 .footer4 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -676,7 +723,6 @@
   left                : 122px;
 }
 .legend-container4 .footer4 .legend4 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -716,7 +762,6 @@
    margin: auto;
 }
 .legend-container5 .footer5 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -724,7 +769,6 @@
   left                : 122px;
 }
 .legend-container5 .footer5 .legend5 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -764,7 +808,6 @@
    margin: auto;
 }
 .legend-container6 .footer6 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -772,7 +815,6 @@
   left                : 122px;
 }
 .legend-container6 .footer6 .legend6 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
@@ -812,7 +854,6 @@
    margin: auto;
 }
 .legend-container7 .footer7 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 112px;
   height              : 1488px;
   width               : 860px;
@@ -820,7 +861,6 @@
   left                : 122px;
 }
 .legend-container7 .footer7 .legend7 {
-  background-color    : rgba(255, 255, 255, 0.0);
   top                 : 1054px;
   height              : 434px;
   width               : 860px;
